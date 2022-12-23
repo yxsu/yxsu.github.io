@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Short Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,16 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am currently an assistant professor of the School of Software Engineering in the Sun Yat-sen University. Previously, I was a postdoctoral fellow at the Chinese University of Hong Kong (CUHK), advised by Prof. Michael R. Lyu. I also obtained my Ph.D. degree in department of computer science and engineering from CUHK, under the supervision of [Prof. Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/) and [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/home). Before coming to CUHK, I obtained my M. Eng. degree from Zhejiang University and B. Sci. degree from Sun Yat-sun University respectively.
 
-A data-driven personal website
+My research interests include AI for systems, cloud computing, AIOps, operating system, distributed system and machine learning. I have
+
+
+I am looking for self-motivated students. Please drop me an email if you are interested.
+
+
+Selected Paper:
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- **[FAST'23]** Jiacheng Shen, Pengfei Zuo, Xuchuan Luo, Tianyi Yang, **Yuxin Su***, Yangfan Zhou and Michael R. Lyu. FUSES: A Fully Memory-Disaggregated Key-Value Store. USENIX Conference on File and Storage Technologies (FAST), 2023
+- **[ICSE'23]** Yintong Huo, **Yuxin Su***, Cheryl Lee and Michael R. Lyu. A Semantic-aware Parsing Approach for Log Analytics. IEEE/ACM International Conference on Software Engineering (ICSE), 2023
+- **[ICSE'23]** Cheryl Lee, Tianyi Yang, Zhuangbin Chen, **Yuxin Su***, Yongqiang Yang and Michael R. Lyu. Heterogeneous Anomaly Detection for Software Systems via Semi-supervised Cross-modal Attention. IEEE/ACM International Conference on Software Engineering (ICSE), 2023
+- **[ICSE'23]** Cheryl Lee, Tianyi Yang, Zhuangbin Chen, **Yuxin Su*** and Michael R. Lyu.  Eadro: An End-to-End Troubleshooting Framework for Microservices on Multi-source Data. IEEE/ACM International Conference on Software Engineering (ICSE), 2023
+- **[AAAI'23]** Zihan Li, Weibin Wu, **Yuxin Su***, Zibin Zheng and Michael R. Lyu.  CDTA: Cross-Domain Transfer-Based Attack with Contrastive Learning. Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), 2023
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
-======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
