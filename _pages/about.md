@@ -18,7 +18,7 @@ I am looking for self-motivated students. Please drop me an email if you are int
 
 Selected Paper
 ------
-- **[FAST'23]** Jiacheng Shen, Pengfei Zuo, Xuchuan Luo, Tianyi Yang, **Yuxin Su***, Yangfan Zhou and Michael R. Lyu. FUSES: A Fully Memory-Disaggregated Key-Value Store. USENIX Conference on File and Storage Technologies (FAST), 2023
+- **[FAST'23]** Jiacheng Shen, Pengfei Zuo, Xuchuan Luo, Tianyi Yang, **Yuxin Su**, Yangfan Zhou and Michael R. Lyu. FUSES: A Fully Memory-Disaggregated Key-Value Store. USENIX Conference on File and Storage Technologies (FAST), 2023
 
 - **[ICSE'23]** Yintong Huo, **Yuxin Su***, Cheryl Lee and Michael R. Lyu. A Semantic-aware Parsing Approach for Log Analytics. IEEE/ACM International Conference on Software Engineering (ICSE), 2023
 
