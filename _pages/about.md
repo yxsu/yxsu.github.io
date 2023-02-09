@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently an assistant professor of the School of Software Engineering in the Sun Yat-sen University. Previously, I was a postdoctoral fellow at the Chinese University of Hong Kong (CUHK), advised by Prof. Michael R. Lyu. I also obtained my Ph.D. degree in department of computer science and engineering from CUHK, under the supervision of [Prof. Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/) and [Prof. Irwin King](https://www.cse.cuhk.edu.hk/irwin.king/home). Before coming to CUHK, I obtained my M.E. degree from Zhejiang University and B.S. degree from Sun Yat-sun University respectively.
 
-My research interests include AI for systems, cloud computing, AIOps, operating system, distributed system and machine learning. I have
+My research interests include AI for systems, cloud computing, AIOps, operating system, distributed system and machine learning.
 
 
 I am looking for self-motivated students. Please drop me an email if you are interested.
