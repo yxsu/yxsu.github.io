@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Yuxin Su"
-title_separator          : "-"
+title_separator          : "|"
 name                     : &name "Yuxin Su"
 description              : &description "personal description"
 url                      : https://yxsu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
