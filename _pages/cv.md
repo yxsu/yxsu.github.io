@@ -17,7 +17,10 @@ Education
 
 Work experience
 ======
-* 2021.7 ~ Present: Assistant Professor 
+* 2023.6 ~ Present: Associate Professor
+  * Sun Yat-sen University
+  * School of Software Engineering
+* 2021.7 ~ 2023.6: Assistant Professor 
   * Sun Yat-sen University
   * School of Software Engineering
 
