@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+- **[SOSP'23]** Jiacheng Shen, Pengfei Zuo, Xuchuan Luo, **Yuxin Su**, Jiazhen Gu, Hao Feng, Yangfan Zhou and Michael R. Lyu. Anole: An Elastic and Adaptive Memory-Disaggregated Caching System. ACM Symposium on Operating Systems Principles (SOSP), 2023
+
 - **[CVPR'23]** Jianping Zhang, Jen-tse Huang, Wenxuan Wang, Yichen Li, Weibin Wu, Xiaosen Wang, **Yuxin Su** and Michael Lyu. Improving the Transferability of Adversarial Samples by Path-Augmented Method. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023
 
 - **[FAST'23]** Jiacheng Shen, Pengfei Zuo, Xuchuan Luo, Tianyi Yang, **Yuxin Su**, Yangfan Zhou and Michael R. Lyu. FUSES: A Fully Memory-Disaggregated Key-Value Store. USENIX Conference on File and Storage Technologies (FAST), 2023.
