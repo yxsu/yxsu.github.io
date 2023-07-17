@@ -18,6 +18,8 @@ I am looking for self-motivated students. Please drop me an email if you are int
 
 Selected Paper
 ------
+- **[SOSP'23]** Jiacheng Shen, Pengfei Zuo, Xuchuan Luo, **Yuxin Su**, Jiazhen Gu, Hao Feng, Yangfan Zhou and Michael R. Lyu. Anole: An Elastic and Adaptive Memory-Disaggregated Caching System. ACM Symposium on Operating Systems Principles (SOSP), 2023
+
 - **[FAST'23]** Jiacheng Shen, Pengfei Zuo, Xuchuan Luo, Tianyi Yang, **Yuxin Su**, Yangfan Zhou and Michael R. Lyu. FUSES: A Fully Memory-Disaggregated Key-Value Store. USENIX Conference on File and Storage Technologies (FAST), 2023
 
 - **[ICSE'23]** Yintong Huo, **Yuxin Su***, Cheryl Lee and Michael R. Lyu. SemParser: A Semantic Parser for Log Analytics. IEEE/ACM International Conference on Software Engineering (ICSE), 2023
