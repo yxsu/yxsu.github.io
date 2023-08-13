@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+- **[ISSRE'23]** Jinyang Liu, Tianyi Yang, Zhuangbin Chen, **Yuxin Su**, Cong Feng, Zengyin Yang and Michael R. Lyu. Practical Anomaly Detection over Multivariate Monitoring Metrics for Online Services. IEEE International Symposium on Software Reliability Engineering (ISSRE), 2023
+
+- **[ISSRE'23]** Yintong Huo, Cheryl Lee, **Yuxin Su***, Shiwen Shan, Jinyang Liu and Michael R. Lyu. EvLog: Identifying Anomalous Logs over Software Evolution. IEEE International Symposium on Software Reliability Engineering (ISSRE), 2023
+
 - **[ASE'23]** Yintong Huo, Yichen Li, **Yuxin Su***, Pinjia He, Zifan Xie and Michael R. Lyu. AutoLog: A Log Sequence Synthesis Framework for Anomaly Detection. IEEE/ACM International Conference on Automated Software Engineering (ASE), 2023
 
 - **[ASE'23]** Cheryl Lee, Tianyi Yang, Zhuangbin Chen, **Yuxin Su***, and Michael R. Lyu. Maat: Performance Metric Anomaly Anticipation for Cloud Services with Conditional Diffusion. IEEE/ACM International Conference on Automated Software Engineering (ASE), 2023
