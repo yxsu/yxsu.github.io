@@ -10,7 +10,7 @@ author_profile: true
 
 - **[ASE'23]** Yintong Huo, Yichen Li, **Yuxin Su***, Pinjia He, Zifan Xie and Michael R. Lyu. AutoLog: A Log Sequence Synthesis Framework for Anomaly Detection. IEEE/ACM International Conference on Automated Software Engineering (ASE), 2023
 
-- **[ASE'23]** Cheryl Lee, Tianyi Yang, Zhuangbin Chen, **Yuxin Su***, and Michael R. Lyu. Maat: Performance Metric Anomaly Anticipation for Cloud Services with Conditional Diffusion. IEEE/ACM International Conference on Automated Software Engineering (ASE), 2023
+- **[ASE'23]** Cheryl Lee, Tianyi Yang, Zhuangbin Chen, **Yuxin Su**, and Michael R. Lyu. Maat: Performance Metric Anomaly Anticipation for Cloud Services with Conditional Diffusion. IEEE/ACM International Conference on Automated Software Engineering (ASE), 2023
 
 - **[SOSP'23]** Jiacheng Shen, Pengfei Zuo, Xuchuan Luo, **Yuxin Su**, Jiazhen Gu, Hao Feng, Yangfan Zhou and Michael R. Lyu. Anole: An Elastic and Adaptive Memory-Disaggregated Caching System. ACM Symposium on Operating Systems Principles (SOSP), 2023
 
