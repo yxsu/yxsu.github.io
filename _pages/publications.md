@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+- **[ISSTA'24]** Shiwen Shan, Yintong Huo, **Yuxin Su***, Yichen Li, Dan Li and Zibin Zheng. Face It Yourselves: An LLM-based Two-Stage Strategy to Localize Configuration Errors via Logs. ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2024
+
+- **[ISSTA'24]** Tianyi Yang, Cheryl Lee, Jiacheng Shen, **Yuxin Su**, Cong Feng, Yongqiang Yang and Michael R. Lyu. MicroRes: Versatile Resilience Profiling in Microservices via Degradation Dissemination Indexing. ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2024
+  
 - **[ISSRE'23]** Jinyang Liu, Tianyi Yang, Zhuangbin Chen, **Yuxin Su**, Cong Feng, Zengyin Yang and Michael R. Lyu. Practical Anomaly Detection over Multivariate Monitoring Metrics for Online Services. IEEE International Symposium on Software Reliability Engineering (ISSRE), 2023
 
 - **[ISSRE'23]** Yintong Huo, Cheryl Lee, **Yuxin Su***, Shiwen Shan, Jinyang Liu and Michael R. Lyu. EvLog: Identifying Anomalous Logs over Software Evolution. IEEE International Symposium on Software Reliability Engineering (ISSRE), 2023
