@@ -18,6 +18,10 @@ I am looking for self-motivated students. Please drop me an email if you are int
 
 Selected Paper
 ------
+- **[ISSTA'24]** Shiwen Shan, Yintong Huo, **Yuxin Su***, Yichen Li, Dan Li and Zibin Zheng. Face It Yourselves: An LLM-based Two-Stage Strategy to Localize Configuration Errors via Logs. ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2024
+
+- **[ISSTA'24]** Tianyi Yang, Cheryl Lee, Jiacheng Shen, **Yuxin Su**, Cong Feng, Yongqiang Yang and Michael R. Lyu. MicroRes: Versatile Resilience Profiling in Microservices via Degradation Dissemination Indexing. ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2024
+
 - **[ASE'23]** Yintong Huo, Yichen Li, **Yuxin Su***, Pinjia He, Zifan Xie and Michael R. Lyu. AutoLog: A Log Sequence Synthesis Framework for Anomaly Detection. IEEE/ACM International Conference on Automated Software Engineering (ASE), 2023
 
 - **[ASE'23]** Cheryl Lee, Tianyi Yang, Zhuangbin Chen, **Yuxin Su**, and Michael R. Lyu. Maat: Performance Metric Anomaly Anticipation for Cloud Services with Conditional Diffusion. IEEE/ACM International Conference on Automated Software Engineering (ASE), 2023
@@ -48,6 +52,10 @@ Teaching
 ------
 1. SSE201 Data structure and algorithm
 2. SSE202 Operating Systems
+
+Services
+------
+- Program committee: ISSTA
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=_m6l5Tq3WRDEmiXJRdXI4pI5kO_4E6xxhEExcRFyPF4'></script>
 
