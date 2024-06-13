@@ -26,7 +26,6 @@ Work experience
 
 * 2019.12 ~ 2021.7: Postdoctoral Fellow
   * The Chinese University of Hong Kong
-  * Advisor: Prof. Michael R. Lyu
 
 * 2017.5 ~ 2017.9: Research Intern
   * Microsoft Research Asia
