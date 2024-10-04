@@ -4,6 +4,16 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+- **[TSE'24]** Yichen Li, Yintong Huo, Zhihan Jiang, Renyi Zhong, Pinjia He, **Yuxin Su**, Lionel Briand, Michael Lyu. Exploring the Effectiveness of LLMs in Automated Logging Statement Generation: An Empirical Study. IEEE Transactions on Software Engineering (TSE), 2024
+  
+- **[TOSEM'24]** Wenwei Gu, Jinyang Liu, Zhuangbin Chen, Jianping Zhang, **Yuxin Su**, Jiazhen Gu, Cong Feng, Zengyin Yang, Yongqiang Yang, Michael R. Lyu. Identifying Performance Issues in Cloud Service Systems Based on Relational-Temporal Features. ACM Transactions on Software Engineering and Methodology (TOSEM), 2024
+
+- **[SSE'24]** Chenxi Mao, **Yuxin Su***, Shiwen Shan, Dan Li. eWAPA: An eBPF-based WASI Performance Analysis Framework for WebAssembly Runtimes. IEEE International Conference on Software Services Engineering (SSE), 2024
+
+- **[Internetware'24, Best Tool Award]** Yudan Long, **Yuxin Su***, Zigui Jiang. WACP: A Performance Profiling Tool for WebAssembly-Python Interoperability. Asia-Pacific Symposium on Internetware (Internetware), 2024
+ 
+- **[Cloud'24, Best Paper Award]** Zhuangbin Chen, Zhihan Jiang, **Yuxin Su**, Michael R. Lyu, Zibin Zheng. TraceMesh: Scalable and Streaming Sampling for Distributed Traces. IEEE International Conference on Cloud Computing (CLOUD), 2024
+ 
 - **[ISSTA'24]** Shiwen Shan, Yintong Huo, **Yuxin Su***, Yichen Li, Dan Li and Zibin Zheng. Face It Yourselves: An LLM-based Two-Stage Strategy to Localize Configuration Errors via Logs. ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2024
 
 - **[ISSTA'24]** Tianyi Yang, Cheryl Lee, Jiacheng Shen, **Yuxin Su**, Cong Feng, Yongqiang Yang and Michael R. Lyu. MicroRes: Versatile Resilience Profiling in Microservices via Degradation Dissemination Indexing. ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2024
