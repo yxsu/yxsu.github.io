@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+1. **[APSEC'25, Best Industrial Practice Award]** Chenxi Mao, **Yuxin Su***, Dan Li. LogExpertSolver: A Multi-Agent Framework for Domain-Specialized Log Parsing. Asia-Pacific Software Engineering Conference (APSEC), 2025
+
 1. **[TSE'24]** Yichen Li, Yintong Huo, Zhihan Jiang, Renyi Zhong, Pinjia He, **Yuxin Su**, Lionel Briand, Michael Lyu. Exploring the Effectiveness of LLMs in Automated Logging Statement Generation: An Empirical Study. IEEE Transactions on Software Engineering (TSE), 2024
   
 1. **[TOSEM'24]** Wenwei Gu, Jinyang Liu, Zhuangbin Chen, Jianping Zhang, **Yuxin Su**, Jiazhen Gu, Cong Feng, Zengyin Yang, Yongqiang Yang, Michael R. Lyu. Identifying Performance Issues in Cloud Service Systems Based on Relational-Temporal Features. ACM Transactions on Software Engineering and Methodology (TOSEM), 2024
