@@ -18,6 +18,10 @@ I am looking for self-motivated students. Please drop me an email if you are int
 
 Selected Paper
 ------
+- **[ICSE'26]** Jia Li, Jiacheng Shen, **Yuxin Su**, Michael R. Lyu. MioHint: LLM-Assisted Request Mutation for Whitebox REST API Testing. IEEE/ACM International Conference on Software Engineering (ICSE), 2026
+
+- **[ICSE'26]** Shiwen Shan, Yintong Huo, **Yuxin Su**, Zhining Wang, Dan Li and Zibin Zheng. ConfLogger: Enhance Systems' Configuration Diagnosability through Configuration Logging. IEEE/ACM International Conference on Software Engineering (ICSE), 2026
+
 - **[ISSTA'24]** Shiwen Shan, Yintong Huo, **Yuxin Su***, Yichen Li, Dan Li and Zibin Zheng. Face It Yourselves: An LLM-based Two-Stage Strategy to Localize Configuration Errors via Logs. ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2024
 
 - **[ISSTA'24]** Tianyi Yang, Cheryl Lee, Jiacheng Shen, **Yuxin Su**, Cong Feng, Yongqiang Yang and Michael R. Lyu. MicroRes: Versatile Resilience Profiling in Microservices via Degradation Dissemination Indexing. ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2024
