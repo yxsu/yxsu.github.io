@@ -4,11 +4,15 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-1. **[ICSE'26]** Jia LI, Jiacheng Shen, **Yuxin Su**, Michael R. Lyu. MioHint: LLM-Assisted Request Mutation for Whitebox REST API Testing. IEEE/ACM International Conference on Software Engineering (ICSE), 2026
+1. **[ICSE'26]** Jia Li, Jiacheng Shen, **Yuxin Su**, Michael R. Lyu. MioHint: LLM-Assisted Request Mutation for Whitebox REST API Testing. IEEE/ACM International Conference on Software Engineering (ICSE), 2026
 
 1. **[ICSE'26]** Shiwen Shan, Yintong Huo, **Yuxin Su**, Zhining Wang, Dan Li and Zibin Zheng. IEEE/ACM International Conference on Software Engineering (ICSE), 2026
   
 1. **[APSEC'25, Best Industrial Practice Award]** Chenxi Mao, **Yuxin Su***, Dan Li. LogExpertSolver: A Multi-Agent Framework for Domain-Specialized Log Parsing. Asia-Pacific Software Engineering Conference (APSEC), 2025
+
+1. **[TIFS'25]** Dan Lin, Jiajing Wu, **Yuxin Su**, Ziye Zheng, Yuhong Nan, Qinnan Zhang, Bowen Song, Zibin Zheng. Connector: Enhancing the traceability of decentralized bridge applications via automatic cross-chain transaction association. IEEE Transactions on Information Forensics and Security, 2025
+
+1. **[SSE'25]** Dan Li, Zigui Jiang, **Yuxin Su***, Zibin Zheng. Fostering Active Learning: A Study on Anonymous Q&A Software in Undergraduate Education. IEEE International Conference on Software Services Engineering (SSE), 2025
 
 1. **[TSE'24]** Yichen Li, Yintong Huo, Zhihan Jiang, Renyi Zhong, Pinjia He, **Yuxin Su**, Lionel Briand, Michael Lyu. Exploring the Effectiveness of LLMs in Automated Logging Statement Generation: An Empirical Study. IEEE Transactions on Software Engineering (TSE), 2024
   
