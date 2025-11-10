@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+1. **[ICSE'26]** Jia LI, Jiacheng Shen, **Yuxin Su**, Michael R. Lyu. MioHint: LLM-Assisted Request Mutation for Whitebox REST API Testing. IEEE/ACM International Conference on Software Engineering (ICSE), 2026
+
+1. **[ICSE'26]** Shiwen Shan, Yintong Huo, **Yuxin Su**, Zhining Wang, Dan Li and Zibin Zheng. IEEE/ACM International Conference on Software Engineering (ICSE), 2026
+  
 1. **[APSEC'25, Best Industrial Practice Award]** Chenxi Mao, **Yuxin Su***, Dan Li. LogExpertSolver: A Multi-Agent Framework for Domain-Specialized Log Parsing. Asia-Pacific Software Engineering Conference (APSEC), 2025
 
 1. **[TSE'24]** Yichen Li, Yintong Huo, Zhihan Jiang, Renyi Zhong, Pinjia He, **Yuxin Su**, Lionel Briand, Michael Lyu. Exploring the Effectiveness of LLMs in Automated Logging Statement Generation: An Empirical Study. IEEE Transactions on Software Engineering (TSE), 2024
