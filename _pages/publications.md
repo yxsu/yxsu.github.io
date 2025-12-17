@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+1. **[ICSE'26]** Shiwen Shan, Yintong Huo, Hongzhan Zhong, Zhining Wang, **Yuxin Su*** and Zibin Zheng. LogFold: Compressing Logs with Structured Tokens and Hybrid Encoding. IEEE/ACM International Conference on Software Engineering (ICSE), 2026
+
 1. **[ICSE'26]** Jia Li, Jiacheng Shen, **Yuxin Su**, Michael R. Lyu. MioHint: LLM-Assisted Request Mutation for Whitebox REST API Testing. IEEE/ACM International Conference on Software Engineering (ICSE), 2026
 
 1. **[ICSE'26]** Shiwen Shan, Yintong Huo, **Yuxin Su**, Zhining Wang, Dan Li and Zibin Zheng. ConfLogger: Enhance Systems' Configuration Diagnosability through Configuration Logging. IEEE/ACM International Conference on Software Engineering (ICSE), 2026
