@@ -18,6 +18,8 @@ author_profile: true
 
 1. **[SSE'25]** Dan Li, Zigui Jiang, **Yuxin Su***, Zibin Zheng. Fostering Active Learning: A Study on Anonymous Q&A Software in Undergraduate Education. IEEE International Conference on Software Services Engineering (SSE), 2025
 
+1. **[ICDE'24]** Cheryl Lee, Tianyi Yang, Zhouruixing Zhu, Yintong Huo, Pinjia He, **Yuxin Su** and Michael R. Lyu. SPES: Towards Optimizing Performance-Resource Trade-Off for Serverless Functions. IEEE International Conference on Data Engineering (ICDE), 2024
+
 1. **[TSE'24]** Yichen Li, Yintong Huo, Zhihan Jiang, Renyi Zhong, Pinjia He, **Yuxin Su**, Lionel Briand, Michael Lyu. Exploring the Effectiveness of LLMs in Automated Logging Statement Generation: An Empirical Study. IEEE Transactions on Software Engineering (TSE), 2024
   
 1. **[TOSEM'24]** Wenwei Gu, Jinyang Liu, Zhuangbin Chen, Jianping Zhang, **Yuxin Su**, Jiazhen Gu, Cong Feng, Zengyin Yang, Yongqiang Yang, Michael R. Lyu. Identifying Performance Issues in Cloud Service Systems Based on Relational-Temporal Features. ACM Transactions on Software Engineering and Methodology (TOSEM), 2024
