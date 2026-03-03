@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+1. **[CHI'26]** Xinyi Zhang, Zicheng Zhu, **Yuxin Su**. "Clumsiness is Love Itself": How Long-Distance Couples Experience, Envision, and Resist AI in Intimate Relationships. CHI Conference on Human Factors in Computing Systems (CHI), 2026
+
 1. **[ICSE'26]** Shiwen Shan, Yintong Huo, Hongzhan Zhong, Zhining Wang, **Yuxin Su*** and Zibin Zheng. LogFold: Compressing Logs with Structured Tokens and Hybrid Encoding. IEEE/ACM International Conference on Software Engineering (ICSE), 2026
 
 1. **[ICSE'26]** Jia Li, Jiacheng Shen, **Yuxin Su***, Michael R. Lyu. MioHint: LLM-Assisted Request Mutation for Whitebox REST API Testing. IEEE/ACM International Conference on Software Engineering (ICSE), 2026
