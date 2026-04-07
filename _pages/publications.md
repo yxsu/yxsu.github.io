@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+1. **[ACL'26]** Jia Li, **Yuxin Su**, Michael R. Lyu. From Laboratory to Real-World Applications: Benchmarking Agentic Code Reasoning at the Repository Level. The Annual Meeting of the Association for Computational Linguistics (ACL), 2026
+
+1. **[FSE'26]** Jia Li, Zhuangbin Chen, **Yuxin Su**, Michael R. Lyu. VulKey: Automated Vulnerability Repair Guided by Domain-Specific Repair Patterns. ACM International Conference on the Foundations of Software Engineering (FSE), 2026
+
 1. **[CHI'26]** Xinyi Zhang, Zicheng Zhu, **Yuxin Su**. "Clumsiness is Love Itself": How Long-Distance Couples Experience, Envision, and Resist AI in Intimate Relationships. CHI Conference on Human Factors in Computing Systems (CHI), 2026
 
 1. **[ICSE'26]** Shiwen Shan, Yintong Huo, Hongzhan Zhong, Zhining Wang, **Yuxin Su*** and Zibin Zheng. LogFold: Compressing Logs with Structured Tokens and Hybrid Encoding. IEEE/ACM International Conference on Software Engineering (ICSE), 2026
