@@ -8,6 +8,8 @@ author_profile: true
 
 1. **[ASE'26]** Zishan Su, Junjie Huang, Shiwen Shan, Xingyan Chen, Hui Zeng, **Yuxin Su***, Yanlin Wang, Michael R. Lyu. MicroAgent: Context-Augmented Multi-Agent Framework for Automatic Microservice Decomposition. IEEE/ACM International Conference on Automated Software Engineering (ASE), 2026
 
+1. **[UIST'26]** Xinyi Zhang, Jingting He, Zicheng Zhu, **Yuxin Su**. ASIDE: From Conflict Participants to Co-Observers Through Dyadic Spectator Reflection. ACM Symposium on User Interface Software and Technology (UIST), 2026
+
 1. **[ACL'26]** Jia Li, **Yuxin Su**, Michael R. Lyu. From Laboratory to Real-World Applications: Benchmarking Agentic Code Reasoning at the Repository Level. The Annual Meeting of the Association for Computational Linguistics (ACL), 2026
 
 1. **[FSE'26]** Jia Li, Zhuangbin Chen, **Yuxin Su**, Michael R. Lyu. VulKey: Automated Vulnerability Repair Guided by Domain-Specific Repair Patterns. ACM International Conference on the Foundations of Software Engineering (FSE), 2026
