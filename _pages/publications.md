@@ -6,7 +6,7 @@ author_profile: true
 ---
 1. **[ASE'26]** Bin Liao, Canfeng Zheng, Shiwen Shan, Qi Huang, Junjie Dong, Xiang Xiao, Yaoyao Gu, **Yuxin Su**. Li-WaC: A Lightweight WebAssembly Container for Independently Upgradable IoT Applications in Xiaomi Vela. IEEE/ACM International Conference on Automated Software Engineering (ASE), 2026
 
-1. **[ASE'26]** Zishan Su, Junjie Huang, Shiwen Shan, Xingyan Chen, Hui Zeng, **Yuxin Su***, Yanlin Wang, Michael R. Lyu. MicroAgent: Context-Augmented Multi-Agent Framework for Automatic Microservice Decomposition. IEEE/ACM International Conference on Automated Software Engineering (ASE), 2026
+1. **[ASE'26, ACM Distinguished Paper Award]** Zishan Su, Junjie Huang, Shiwen Shan, Xingyan Chen, Hui Zeng, **Yuxin Su***, Yanlin Wang, Michael R. Lyu. MicroAgent: Context-Augmented Multi-Agent Framework for Automatic Microservice Decomposition. IEEE/ACM International Conference on Automated Software Engineering (ASE), 2026
 
 1. **[UIST'26]** Xinyi Zhang, Jingting He, Zicheng Zhu, **Yuxin Su**. ASIDE: From Conflict Participants to Co-Observers Through Dyadic Spectator Reflection. ACM Symposium on User Interface Software and Technology (UIST), 2026
 
