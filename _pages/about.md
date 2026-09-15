@@ -18,6 +18,8 @@ I am looking for self-motivated students. Please drop me an email if you are int
 
 Selected Paper
 ------
+- **[ASE'26]** Zishan Su, Junjie Huang, Shiwen Shan, Xingyan Chen, Hui Zeng, Yuxin Su*, Yanlin Wang, Michael R. Lyu. MicroAgent: Context-Augmented Multi-Agent Framework for Automatic Microservice Decomposition. IEEE/ACM International Conference on Automated Software Engineering (ASE), 2026 (ACM Distinguished Paper Award)
+
 - **[ICSE'26]** Shiwen Shan, Yintong Huo, Hongzhan Zhong, Zhining Wang, **Yuxin Su*** and Zibin Zheng. LogFold: Compressing Logs with Structured Tokens and Hybrid Encoding. IEEE/ACM International Conference on Software Engineering (ICSE), 2026
 
 - **[ICSE'26]** Jia Li, Jiacheng Shen, **Yuxin Su***, Michael R. Lyu. MioHint: LLM-Assisted Request Mutation for Whitebox REST API Testing. IEEE/ACM International Conference on Software Engineering (ICSE), 2026
